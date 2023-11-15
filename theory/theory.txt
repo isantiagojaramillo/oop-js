@@ -46,3 +46,7 @@ Two Accepted Definitions:
 
                         subtype polymorphism or inclusion polymorphism: type
                         can be represented by a class and derived from it.
+
+        Parametric Polymorphism:
+            Method that works with parameters of any type, also 
+            called generics.
