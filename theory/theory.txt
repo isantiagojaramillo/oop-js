@@ -2,3 +2,8 @@ What is oop?
 Programming paradigm focus on objects instead of functions.
 Almost everything is an object in JS.
 Any data type that is not an object, it is known as a primitive data.
+
+Constructor:
+Object generator.
+On Js the constructors are just functions that allows to create
+objects with properties and methods.
