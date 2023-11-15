@@ -34,3 +34,15 @@ Two Accepted Definitions:
         Polymorphism:
             capability to process objects differently based on
             their data type or structure.
+                Benefits:
+                    reduces coupling in our application.
+                    allows to create more compact code.
+                    suppor in PL:
+                        overloading: Methods can take parameters
+                        with different data types.
+
+                        parametric polymorphism: Manage generic types
+                        not knowing in advance.
+
+                        subtype polymorphism or inclusion polymorphism: type
+                        can be represented by a class and derived from it.
