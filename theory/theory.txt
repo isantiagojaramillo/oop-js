@@ -50,3 +50,7 @@ Two Accepted Definitions:
         Parametric Polymorphism:
             Method that works with parameters of any type, also 
             called generics.
+
+        Subtype Polymorphism:
+            Allows objects with different types, but with an
+            inheritance relationship.
