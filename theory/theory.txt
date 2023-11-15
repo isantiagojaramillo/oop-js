@@ -1,9 +1,36 @@
 What is oop?
-Programming paradigm focus on objects instead of functions.
-Almost everything is an object in JS.
-Any data type that is not an object, it is known as a primitive data.
+    Programming paradigm focus on objects instead of functions.
+    Almost everything is an object in JS.
+    Any data type that is not an object, it is known as a primitive data.
 
 Constructor:
-Object generator.
-On Js the constructors are just functions that allows to create
-objects with properties and methods.
+    Object generator.
+    On Js the constructors are just functions that allows to create
+    objects with properties and methods.
+
+Principles OOP:
+    Object oriented languages promote modularity and reusable code.
+
+Two Accepted Definitions: 
+    Capability to model through objects:
+        Describe reality using objects and its relatioships.
+            Association:
+                Object capability to refer another object.
+            Aggregation:
+                Object capability to refer one or more
+                independent objects.
+            Composition:
+                Object capability to refer one or more
+                dependent objects.
+                
+    Support few principle to grant modularity and code reuse:
+        Encapsulation:
+            capability to concentrate into a single entity
+            data and code that manipulates it. Hidden internal
+            details.
+        Inheritance:
+            mechanism by which object acquires some or all 
+            features of one or more objects.
+        Polymorphism:
+            capability to process objects differently based on
+            their data type or structure.
