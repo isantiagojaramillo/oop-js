@@ -4,7 +4,7 @@ let name = "Ryan";
 let lastName = "Ray";
 let age = 30;
 
-const user = {
+const User = {
 //  keys & values
     name: "Ryan",
     lastName: "Ray",
@@ -16,4 +16,4 @@ const user = {
     }
 }
 
-console.log(user);
+console.log(User);
